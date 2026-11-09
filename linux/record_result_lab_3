@@ -1,0 +1,69 @@
+Script started on 2026-11-07 08:30:33+00:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="104" LINES="27"]
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/dmitry/devops/lab5/linux\]0;dmitry@Ubuntu:~/devops/lab5/linux\]666;vte.shell.precmd!\[?2004h]0;dmitry@Ubuntu: ~/devops/lab5/linux[01;32mdmitry@Ubuntu[00m:[01;34m~/devops/lab5/linux[00m$ cd ...[K[K[K~
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://Ubuntu/home/dmitry\]0;dmitry@Ubuntu:~\]666;vte.shell.precmd!\[?2004h]0;dmitry@Ubuntu: ~[01;32mdmitry@Ubuntu[00m:[01;34m~[00m$ clear
+[?2004l]133;C\]666;vte.shell.preexec!\[H[2J[3J]666;vte.shell.postexec=0\]7;file://Ubuntu/home/dmitry\]0;dmitry@Ubuntu:~\]666;vte.shell.precmd!\[?2004h]0;dmitry@Ubuntu: ~[01;32mdmitry@Ubuntu[00m:[01;34m~[00m$ touch [K[K[K[K[K[Kcd d[KD``[K[K
+Desktop/   Documents/ Downloads/ 
+]0;dmitry@Ubuntu: ~[01;32mdmitry@Ubuntu[00m:[01;34m~[00m$ cd D
+Desktop/   Documents/ Downloads/ 
+]0;dmitry@Ubuntu: ~[01;32mdmitry@Ubuntu[00m:[01;34m~[00m$ cd Desktop/
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://Ubuntu/home/dmitry/Desktop\]0;dmitry@Ubuntu:~/Desktop\]666;vte.shell.precmd!\[?2004h]0;dmitry@Ubuntu: ~/Desktop[01;32mdmitry@Ubuntu[00m:[01;34m~/Desktop[00m$ clear
+[?2004l]133;C\]666;vte.shell.preexec!\[H[2J[3J]666;vte.shell.postexec=0\]7;file://Ubuntu/home/dmitry/Desktop\]0;dmitry@Ubuntu:~/Desktop\]666;vte.shell.precmd!\[?2004h]0;dmitry@Ubuntu: ~/Desktop[01;32mdmitry@Ubuntu[00m:[01;34m~/Desktop[00m$ touch lab3.py
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://Ubuntu/home/dmitry/Desktop\]0;dmitry@Ubuntu:~/Desktop\]666;vte.shell.precmd!\[?2004h]0;dmitry@Ubuntu: ~/Desktop[01;32mdmitry@Ubuntu[00m:[01;34m~/Desktop[00m$ touch lab3_2.pu[Ky
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://Ubuntu/home/dmitry/Desktop\]0;dmitry@Ubuntu:~/Desktop\]666;vte.shell.precmd!\[?2004h]0;dmitry@Ubuntu: ~/Desktop[01;32mdmitry@Ubuntu[00m:[01;34m~/Desktop[00m$ touch ^?[K[7mthe-matrixreloaded.csv[27m[1Pthe-matrixreloaded.csv
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://Ubuntu/home/dmitry/Desktop\]0;dmitry@Ubuntu:~/Desktop\]666;vte.shell.precmd!\[?2004h]0;dmitry@Ubuntu: ~/Desktop[01;32mdmitry@Ubuntu[00m:[01;34m~/Desktop[00m$ touch [7mvariants.txt[27mvariants.txt
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://Ubuntu/home/dmitry/Desktop\]0;dmitry@Ubuntu:~/Desktop\]666;vte.shell.precmd!\[?2004h]0;dmitry@Ubuntu: ~/Desktop[01;32mdmitry@Ubuntu[00m:[01;34m~/Desktop[00m$ ls -ls[K
+[?2004l]133;C\]666;vte.shell.preexec!\total 0
+-rw-rw-r-- 1 dmitry dmitry 0 Nov  7 08:31 lab3.py
+-rw-rw-r-- 1 dmitry dmitry 0 Nov  7 08:31 lab3_2.py
+-rw-rw-r-- 1 dmitry dmitry 0 Nov  7 08:31 the-matrixreloaded.csv
+-rw-rw-r-- 1 dmitry dmitry 0 Nov  7 08:31 variants.txt
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/dmitry/Desktop\]0;dmitry@Ubuntu:~/Desktop\]666;vte.shell.precmd!\[?2004h]0;dmitry@Ubuntu: ~/Desktop[01;32mdmitry@Ubuntu[00m:[01;34m~/Desktop[00m$ S[Kpython 3[K[K3 lab3.py
+[?2004l]133;C\]666;vte.shell.preexec!\Traceback (most recent call last):
+  File [35m"/home/dmitry/Desktop/lab3.py"[0m, line [35m11[0m, in [35m<module>[0m
+    with [31mopen[0m[1;31m('the-matrix-reloaded.csv', newline='')[0m as csvfile:
+         [31m~~~~[0m[1;31m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[1;35mFileNotFoundError[0m: [35m[Errno 2] No such file or directory: 'the-matrix-reloaded.csv'[0m
+]666;vte.shell.postexec=1\]7;file://Ubuntu/home/dmitry/Desktop\]0;dmitry@Ubuntu:~/Desktop\]666;vte.shell.precmd!\[?2004h]0;dmitry@Ubuntu: ~/Desktop[01;32mdmitry@Ubuntu[00m:[01;34m~/Desktop[00m$ python3 lab3.py
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://Ubuntu/home/dmitry/Desktop\]0;dmitry@Ubuntu:~/Desktop\]666;vte.shell.precmd!\[?2004h]0;dmitry@Ubuntu: ~/Desktop[01;32mdmitry@Ubuntu[00m:[01;34m~/Desktop[00m$ python3 lab3.py
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://Ubuntu/home/dmitry/Desktop\]0;dmitry@Ubuntu:~/Desktop\]666;vte.shell.precmd!\[?2004h]0;dmitry@Ubuntu: ~/Desktop[01;32mdmitry@Ubuntu[00m:[01;34m~/Desktop[00m$ python3 lab3.py[1P
+[?2004l]133;C\]666;vte.shell.preexec!\Command 'python' not found, did you mean:
+  command 'python3' from deb python3
+  command 'python' from deb python-is-python3
+]666;vte.shell.postexec=127\]7;file://Ubuntu/home/dmitry/Desktop\]0;dmitry@Ubuntu:~/Desktop\]666;vte.shell.precmd!\[?2004h]0;dmitry@Ubuntu: ~/Desktop[01;32mdmitry@Ubuntu[00m:[01;34m~/Desktop[00m$ python lab3.py[C[C[C[C[C[C[1@3
+[?2004l]133;C\]666;vte.shell.preexec!\]666;vte.shell.postexec=0\]7;file://Ubuntu/home/dmitry/Desktop\]0;dmitry@Ubuntu:~/Desktop\]666;vte.shell.precmd!\[?2004h]0;dmitry@Ubuntu: ~/Desktop[01;32mdmitry@Ubuntu[00m:[01;34m~/Desktop[00m$ clear
+[?2004l]133;C\]666;vte.shell.preexec!\[H[2J[3J]666;vte.shell.postexec=0\]7;file://Ubuntu/home/dmitry/Desktop\]0;dmitry@Ubuntu:~/Desktop\]666;vte.shell.precmd!\[?2004h]0;dmitry@Ubuntu: ~/Desktop[01;32mdmitry@Ubuntu[00m:[01;34m~/Desktop[00m$ clear[Kclearpython3 lab3.py
+[?2004l]133;C\]666;vte.shell.preexec!\Agent Smith: It is inevitable. (Line 724)
+The Oracle: You've already made the choice. You're here to understand why you made it. (Line 725)
+Architect: The matrix is older than you know. (Line 726)
+Link: We got a problem, Morpheus. (Line 727)
+Niobe: Some things never change, do they? (Line 728)
+Persephone: If you want the key, you have to pay the price. (Line 729)
+Keymaker: There is always another way. (Line 730)
+Commander Lock: I am orders, Morpheus. You are belief. (Line 731)
+Agent Smith: We are here because of you, Mister Anderson. (Line 732)
+Neo: Choice. The problem is choice. (Line 733)
+Morpheus: This is the war. And we are going to win it. (Line 734)
+Trinity: Touch me. Just touch me. (Line 735)
+Neo: I just have questions. (Line 736)
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/dmitry/Desktop\]0;dmitry@Ubuntu:~/Desktop\]666;vte.shell.precmd!\[?2004h]0;dmitry@Ubuntu: ~/Desktop[01;32mdmitry@Ubuntu[00m:[01;34m~/Desktop[00m$ python3 lab3.py [K > a[Kфамилия_out
+[?2004l]133;C\]666;vte.shell.preexec!\Neo: Choice. The problem is choice. (Line 568)
+Trinity: Neo, I know you can hear me. (Line 573)
+Agent Smith: It is inevitable. (Line 574)
+The Oracle: You've already made the choice. You're here to understand why you made it. (Line 575)
+Niobe: Some things never change, do they? (Line 578)
+Persephone: If you want the key, you have to pay the price. (Line 579)
+Keymaker: There is always another way. (Line 580)
+Neo: Choice. The problem is choice. (Line 583)
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/dmitry/Desktop\]0;dmitry@Ubuntu:~/Desktop\]666;vte.shell.precmd!\[?2004h]0;dmitry@Ubuntu: ~/Desktop[01;32mdmitry@Ubuntu[00m:[01;34m~/Desktop[00m$ python3 lab3.py > фамилия_out[K[K[Kerr[1@2
+[?2004l]133;C\]666;vte.shell.preexec!\Commander Lock: I am orders, Morpheus. You are belief. (Line 461)
+Trinity: Touch me. Just touch me. (Line 465)
+Neo: I just have questions. (Line 466)
+Morpheus: Free your mind. (Line 467)
+The Oracle: You've already made the choice. You're here to understand why you made it. (Line 470)
+Architect: The matrix is older than you know. (Line 471)
+Link: We got a problem, Morpheus. (Line 472)
+Persephone: If you want the key, you have to pay the price. (Line 474)
+Keymaker: There is always another way. (Line 475)
+]666;vte.shell.postexec=0\]7;file://Ubuntu/home/dmitry/Desktop\]0;dmitry@Ubuntu:~/Desktop\]666;vte.shell.precmd!\[?2004h]0;dmitry@Ubuntu: ~/Desktop[01;32mdmitry@Ubuntu[00m:[01;34m~/Desktop[00m$ nano a[Kфамилия_out 
+[?2004l]133;C\]666;vte.shell.preexec!\[?2004h[?1049h[22;0;0t[1;27r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[25;46H(B[0;7m[ Reading... ](B[m[25;45H(B[0;7m[ Read 8 lines ](B[m[H(B[0;7m  GNU nano 8.7.1                                  фамилия_out                                           [1;103H(B[m[26d(B[0;7m^G(B[m Help[15G(B[0;7m^O(B[m Write Out  (B[0;7m^F(B[m Where Is   (B[0;7m^K(B[m Cut[26;57H(B[0;7m^T(B[m Execute    (B[0;7m^C(B[m Location   (B[0;7mM-U(B[m Undo[27d(B[0;7m^X(B[m Exit[15G(B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Paste[57G(B[0;7m^J(B[m Justify    (B[0;7m^/(B[m Go To Line (B[0;7mM-E(B[m Redo[2dMorpheus: This is the war. And we are going to win it. (Line 569)[3dTrinity: Touch me. Just touch me. (Line 570)[4dNeo: I just have questions. (Line 571)[5dMorpheus: Free your mind. (Line 572)[6dArchitect: The matrix is older than you know. (Line 576)[7dLink: We got a problem, Morpheus. (Line 577)[8dCommander Lock: I am orders, Morpheus. You are belief. (Line 581)[9dAgent Smith: We are here because of you, Mister Anderson. (Line 582)[2d[?12l[?25h
+Script done on 2026-11-07 08:39:57+00:00 [COMMAND_EXIT_CODE="0"]
